@@ -149,66 +149,6 @@
             "id": 130,
             "wishlist": "Time Zone Date",
             "isTrue": false
-        },
-        {
-            "id": 131,
-            "wishlist": "Jaya Abadi Date",
-            "isTrue": true
-        },
-        {
-            "id": 132,
-            "wishlist": "KDrama Date",
-            "isTrue": true
-        },
-        {
-            "id": 133,
-            "wishlist": "Aquarium Date",
-            "isTrue": false
-        },
-        {
-            "id": 134,
-            "wishlist": "Zoo Date",
-            "isTrue": false
-        },
-        {
-            "id": 135,
-            "wishlist": "Deeptalk Di Jendela",
-            "isTrue": true
-        },
-        {
-            "id": 136,
-            "wishlist": "Lego Date",
-            "isTrue": false
-        },
-        {
-            "id": 137,
-            "wishlist": "Mie Ayam Date",
-            "isTrue": false
-        },
-        {
-            "id": 138,
-            "wishlist": "Book Store Date",
-            "isTrue": false
-        },
-        {
-            "id": 140,
-            "wishlist": "Badminton Date",
-            "isTrue": false
-        },
-        {
-            "id": 141,
-            "wishlist": "Ke Surya Kencana",
-            "isTrue": false
-        },
-        {
-            "id": 142,
-            "wishlist": "Train Date",
-            "isTrue": true
-        },
-        {
-            "id": 143,
-            "wishlist": "Painting Date",
-            "isTrue": false
         }
     ]
 }
